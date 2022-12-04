@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ryanpratama14/faotech-projects-app/static/css/main.3bccf2b6.css",
+    "main.js": "/ryanpratama14/faotech-projects-app/static/js/main.f7da6db3.js",
+    "static/media/ceo.png": "/ryanpratama14/faotech-projects-app/static/media/ceo.8738b0c71828e48f3499.png",
+    "index.html": "/ryanpratama14/faotech-projects-app/index.html",
+    "main.3bccf2b6.css.map": "/ryanpratama14/faotech-projects-app/static/css/main.3bccf2b6.css.map",
+    "main.f7da6db3.js.map": "/ryanpratama14/faotech-projects-app/static/js/main.f7da6db3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bccf2b6.css",
+    "static/js/main.f7da6db3.js"
+  ]
+}
