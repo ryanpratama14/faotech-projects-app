@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ryanpratama-portfolio/static/css/main.a2665227.css",
-    "main.js": "/ryanpratama-portfolio/static/js/main.c164d949.js",
+    "main.js": "/ryanpratama-portfolio/static/js/main.a68bd438.js",
     "static/media/ceo.png": "/ryanpratama-portfolio/static/media/ceo.8738b0c71828e48f3499.png",
     "index.html": "/ryanpratama-portfolio/index.html",
     "main.a2665227.css.map": "/ryanpratama-portfolio/static/css/main.a2665227.css.map",
-    "main.c164d949.js.map": "/ryanpratama-portfolio/static/js/main.c164d949.js.map"
+    "main.a68bd438.js.map": "/ryanpratama-portfolio/static/js/main.a68bd438.js.map"
   },
   "entrypoints": [
     "static/css/main.a2665227.css",
-    "static/js/main.c164d949.js"
+    "static/js/main.a68bd438.js"
   ]
 }
